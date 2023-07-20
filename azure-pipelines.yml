@@ -18,9 +18,9 @@ variables:
   - name: azureSubscription
     value: 'svc-con-awh-01'
   - name: appName
-    value: 'duuksawhase-training-code01' # Update this value.
+    value: 'duuksawh-rhtest001-01' # Update this value.
   - name: appResourceGroupName
-    value: 'du-uks-awh-training' # Update this value.
+    value: 'rg-templatespecs' # Update this value.
   - name: runtimeStack
     value: 'PHP|7.4' # Update this value.
 
